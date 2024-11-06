@@ -1,6 +1,6 @@
-# E-Shope
+# UrbanCarde
 
-**E-Shope** is a responsive e-commerce web application built with React. It features user authentication, payment integration, and an admin panel for managing products, orders, and users.
+**UrbanCarde** is a responsive e-commerce web application built with React. It features user authentication, payment integration, and an admin panel for managing products, orders, and users.
 
 ## Technologies Used
 
@@ -23,8 +23,8 @@
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/ANKIT-MANDLOI-17/E-Shop.git
-   cd e-shope
+   git clone https://github.com/ANKIT-MANDLOI-17/UrbanCard.git
+   cd UrbanCarde
    ```
 
 2. Install dependencies:  

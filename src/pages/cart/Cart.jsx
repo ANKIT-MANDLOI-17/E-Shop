@@ -83,7 +83,7 @@ function Cart() {
       amount: parseInt(grandTotal * 100),
       currency: "INR",
       order_receipt: "order_rcptid_" + name,
-      name: "E-Shop",
+      name: "UrbanCard",
       description: "for testing purpose",
       handler: function (response) {
         console.log(response);
